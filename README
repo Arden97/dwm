@@ -32,13 +32,12 @@ and (re)compiling the source code.
 
 Applied patches
 ---------------
-- [Alpha](https://dwm.suckless.org/patches/alpha/)
-- [Actual fullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
-- [Bottom stack layout](https://dwm.suckless.org/patches/bottomstack/)
-- [Centered master layout](https://dwm.suckless.org/patches/centeredmaster/)
-- [Cool autostart](https://dwm.suckless.org/patches/cool_autostart/)
-- [Hide vacant tags](https://dwm.suckless.org/patches/hide_vacant_tags/)
-- [Stacker](https://dwm.suckless.org/patches/stacker/)
-- [Sticky](https://dwm.suckless.org/patches/sticky/)
-- [Swallow](https://dwm.suckless.org/patches/swallow/)
-
+- Alpha (https://dwm.suckless.org/patches/alpha/)
+- Actual fullscreen (https://dwm.suckless.org/patches/actualfullscreen/)
+- Bottom stack layout (https://dwm.suckless.org/patches/bottomstack/)
+- Centered master layout (https://dwm.suckless.org/patches/centeredmaster/)
+- Cool autostart (https://dwm.suckless.org/patches/cool_autostart/)
+- Hide vacant tags (https://dwm.suckless.org/patches/hide_vacant_tags/)
+- Stacker (https://dwm.suckless.org/patches/stacker/)
+- Sticky (https://dwm.suckless.org/patches/sticky/)
+- Swallow (https://dwm.suckless.org/patches/swallow/)
